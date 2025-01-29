@@ -7,11 +7,10 @@ Features
 ✅ Utilizes a Neural Network for deep learning-based predictions
 ✅ Data preprocessing & feature engineering for improved accuracy
 ✅ Trained on real-world data for price estimation
-✅ Easy-to-use API or CLI for predictions
 
 Technologies Used
-Python 🐍
+Python 
 Scikit-Learn
-TensorFlow / PyTorch (for Neural Networks)
+TensorFlow (for Neural Networks)
 Pandas & NumPy (for data preprocessing)
 Matplotlib & Seaborn (for visualization)
