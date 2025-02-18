@@ -11,6 +11,8 @@ Features
 Technologies Used
 Python 
 Scikit-Learn
+Decision Trees
+Random Forest Regressor
 TensorFlow (for Neural Networks)
 Pandas & NumPy (for data preprocessing)
 Matplotlib & Seaborn (for visualization)
